@@ -1,4 +1,4 @@
-# Hi, I'm Adam
+# Hi, I'm Adam.
 ### A coding hobbyist.
 
 ## Currently learning
